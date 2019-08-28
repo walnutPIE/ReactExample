@@ -1,2 +1,0 @@
-# ReactStart
-Created with CodeSandbox
